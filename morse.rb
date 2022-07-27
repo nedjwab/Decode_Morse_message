@@ -34,4 +34,4 @@ def decode_phrase(morse_phrase)
   phrase.join(' ')
 end
 
-puts decode_phrase('-- -.--   -. .- -- .')
+puts decode_phrase('      .-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
